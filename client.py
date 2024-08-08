@@ -1,7 +1,7 @@
 import socket
 import threading
 
-HOST = '127.0.0.1'
+HOST = 'https://pychat.up.railway.app'
 PORT = 3000
 
 
